@@ -5,4 +5,5 @@
 * #### 第二个工程就是我的浏览器，这里必不可少<category android:name="android.intent.category.BROWSABLE"/><data android:scheme="http" />第一个指定这是一个浏览器，第二个则匹配http的请求。<br>
 * #### 第二个工程创建WebView用来显示网址内容。<br>
 最后的成果截图：<br>
-![mage text](https://github.com/IYuanM/My-View/blob/main/picture/2.PNG)
+![mage text](https://github.com/IYuanM/MyWeb/blob/main/pictures/1.PNG)<br>
+![mage text](https://github.com/IYuanM/MyWeb/blob/main/pictures/2.PNG)<br>
